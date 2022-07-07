@@ -1,0 +1,5 @@
+pip install pandas==0.25.3
+pip install vaderSentiment
+pip install emoji==0.5.4
+import nltk
+nltk.download()
